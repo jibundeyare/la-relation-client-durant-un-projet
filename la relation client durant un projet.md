@@ -1,4 +1,4 @@
-Gestion de la relation client durant un projet
+La relation client durant un projet
 ==============================================
 
 1) avant
@@ -45,7 +45,7 @@ Gestion de la relation client durant un projet
 -	définir les responsabilités
 
 	-	le client s'engage à :
-		-	déifnir clairement ses attentes :
+		-	définir clairement ses attentes :
 			-	formats du service / produit attendu
 			-	date de livraison
 		-	être disponible pour répondre aux questions du prestataire
@@ -112,6 +112,6 @@ Gestion de la relation client durant un projet
 	-	le client a aussi besoin de moi, nous sommes interdépendants
 
 -	en cas de pépin
-	-	faire preuve souplesse mais rappeler le cadre / le contrat
+	-	faire preuve de souplesse mais rappeler le cadre / le contrat
 	-	si le client me pose comme unique responsable d'un problème, il faut laisser passer, c'est juste qu'il va mal
 
