@@ -9,7 +9,8 @@ La relation client durant un projet
 	-	je veux être rémunéré ou je suis ok pour le faire gratuitement ?
 	-	je préfère me positionner en tant que presta ou partenaire ?
 	-	je veux faire des sacrifices ou préserver mon équilibre ?
-	-	je suis prêt à faire face à un échec éventuel ?
+	-	suis-je prêt à faire face à un échec éventuel ?
+	-	par rapport à l'investissement, quelles peuvent-être les retombées ?
 
 -	examiner la personnalité du client
 	-	il est très carré alors que je suis plutôt à la cool
@@ -65,11 +66,12 @@ La relation client durant un projet
 	-	la date de livraison est-elle liée à un évènement ?
 	-	la livraison partielle est-elle envisageable ?
 
--	poser le cadre
+-	sensibiliser, poser le cadre
 	-	on utilise des méthodes agiles (cycle courts, étapes successives)
 	-	les méthodes agiles demandent de la rigueur
 	-	au-delà de trois semaines, aucune plannification ne peut être garantie
-	-	sans feed-backs, l'évolution du projet est gelée et toute date planifiée peut-être repoussée
+	-	sans feed-back du client, le projet est gelé et toute date planifiée peut être repoussée
+	-	avoir conscience qu'en cas de retard, le décalage du planning peut être amplifié à cause d'autres projets en parallèle
 	-	signer un contrat qui précise les responsabilités et les modalités
 
 2) pendant
@@ -102,6 +104,7 @@ La relation client durant un projet
 -	timekeeping
 	-	jeter un coup d'œil à l'agenda et vérifier qu'on est dans les temps
 	-	relancer rapidement le client quand il ne répond pas
+	-	rappeler au client que tout retard peut mettre en danger le projet
 
 -	la posture
 	-	face à un problème métier / perso, voir s'il ne vaut mieux pas en faire part au client plutôt que de le gérer seul
@@ -113,5 +116,6 @@ La relation client durant un projet
 
 -	en cas de pépin
 	-	faire preuve de souplesse mais rappeler le cadre / le contrat
+	-	si le projet prend du retard, une enveloppe budgétaire supplémentaire peut être la solution pour embaucher d'autres personnes à la production / réalisation
 	-	si le client me pose comme unique responsable d'un problème, il faut laisser passer, c'est juste qu'il va mal
 
