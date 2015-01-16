@@ -60,7 +60,7 @@ La relation client durant un projet
         -   faire valider les évolutions
         -   livrer en temps et en heure
 
--   quels sont les risques ?
+-   identifier les risques ?
     -   problèmes financiers, de notoriété, ...
     -   le client doit-il rendre des comptes à quelqu'un ?
     -   la date de livraison est-elle liée à un évènement ?
@@ -73,6 +73,30 @@ La relation client durant un projet
     -   sans feed-back du client, le projet est gelé et toute date planifiée peut être repoussée
     -   avoir conscience qu'en cas de retard, le décalage du planning peut être amplifié à cause d'autres projets en parallèle
     -   signer un contrat qui précise les responsabilités et les modalités
+
+-   préparer une métode d'entretien pour le brief
+    - exemple d'un brief créatif :
+
+        > ## Briefing questions
+        >
+        > 1. le positionnement : comparé aux autres entreprises, quel est le positionnement du client ?
+        > 2. le propose : quel est le propos du métier du client ? Quel est le propos du client ?
+        > 3. la mission : au delà de l'aspect économique, pourquoi cela vaut-il le coup ? Quelle est la mission du client ?
+        > 4. la composition : quelle est la structure interne du client ?
+        > 5. la culture : quelles sont les comportements distinctifs du client qui soutiennent le mieux son propos et sa mission ?
+        > 6. la personnalité : quelle est le style et la façon de faire que le client à choisi ?
+        > 7. les buts du client : quels sont les cinq buts clés de l'année prochaine / des cinq prochaines années ?
+        > 8. le développement : quelles sont les plus importantes opportunités de développement du client et de son image ?
+        > 9. les promesses : quelles promesses le client fait-il ?
+        > 10. le public actuel : qui est le public actuel du client ? Qui, où quand et pourquoi ?
+        > 11. le public cible : est-ce que le client recherche un autre type de public ? De quel type de population s'agit-il ?
+        > 12. la perception : comment est-ce que le public cible du client perçoit actuellement la marque ?
+        > 13. la perception souhaitée : comment est-ce que le client voudrait-il que sa marque soit perçu par le public ?
+        > 14. la concurrence : en quoi le client est-il différent de sa concurrence ?
+        > 15. la réponse : quelle réponse le client souhaite-t-il que le public cible emporte avec lui ?
+        > 16. l'objectif : quel est l'objectif marketing ?
+
+        extrait de « Logo Desing Workbook », par Adams Morioka, aux éditions Rockport, p. 23
 
 2) pendant
 ----------
