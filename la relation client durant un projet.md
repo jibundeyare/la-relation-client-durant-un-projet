@@ -96,7 +96,7 @@ La relation client durant un projet
         > 15. la réponse : quelle réponse le client souhaite-t-il que le public cible emporte avec lui ?
         > 16. l'objectif : quel est l'objectif marketing ?
 
-        extrait de « Logo Desing Workbook », par Adams Morioka, aux éditions Rockport, p. 23
+        extrait de « Logo Design Workbook », par Adams Morioka, aux éditions Rockport, p. 23
 
 2) pendant
 ----------
@@ -104,13 +104,17 @@ La relation client durant un projet
 -   mettre en place des sonnettes d'alarmes dans son agenda
     -   placer une date limite de transmission des documentss
     -   placer des dates limites de validation d'étapes
-    -   prendre de la marge avant les dates de livraison
+    -   prendre de la marge avant les dates de livraison (pas de livraison un vendredi soir)
 
 -   communiquer
     -   communiquer régulièrement sur l'état d'évolution du projet
     -   faire régulièrement valider d'évolution du projet
     -   expliquer son travail et le valoriser auprès du client
     -   expliquer ce qu'implique les problèmes que l'on rencontre pour soi et pour le client
+
+-   scinder les problème en plusieurs sous-problèmes :
+    -   mission dev : ércire des tests fonctionnels avant d'ajouter une fonctionnalté
+    -   mission de créa : faire des wireframes avant de proposer une créa
 
 3) après
 --------
@@ -132,7 +136,7 @@ La relation client durant un projet
 
 -   la posture
     -   face à un problème métier / perso, voir s'il ne vaut mieux pas en faire part au client plutôt que de le gérer seul
-    -   under promise, over realize
+    -   "under promise, over realize" : « promettre peu, réaliser plus »
     -   éviter :
         -   la surqualité
         -   le surinvestissement
@@ -141,5 +145,5 @@ La relation client durant un projet
 -   en cas de pépin
     -   faire preuve de souplesse mais rappeler le cadre / le contrat
     -   si le projet prend du retard, une enveloppe budgétaire supplémentaire peut être la solution pour embaucher d'autres personnes à la production / réalisation
-    -   si le client me pose comme unique responsable d'un problème, il faut laisser passer, c'est juste qu'il va mal
+    -   si le client me pose comme unique responsable d'un problème, il faut laisser passer : rien ne sert de dialoguer car il n'est probablement pas capable de faire son autocritique
 
