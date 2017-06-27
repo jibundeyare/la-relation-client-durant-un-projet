@@ -98,6 +98,27 @@ La relation client durant un projet
 
         extrait de « Logo Design Workbook », par Adams Morioka, aux éditions Rockport, p. 23
 
+-   quelque soit le type de projet, il faut avoir une méthode de travail
+    -   getting things done
+    -   zen to done
+    -   kanban
+    -   scrum
+    -   lean development
+    -   test driven development (TDD)
+    -   behaviour driven development (BDD)
+
+-   rv client
+    -   besoins
+    -   références
+        -   bons exemples
+        -   mauvais exemples
+    -   deadlines
+    -   budget / tarifs
+        -   contrat au forfait
+        -   contrat en régie
+
+-   faire au moins une réunion avec le décisionnaire pour faire le brief, pas juste avec le ou les assistants sinon le risque est de ne jamais arriver à satisfaire le client
+
 2) pendant
 ----------
 
